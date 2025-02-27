@@ -16,7 +16,7 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 - **Science Communication**: Teaching, outreach, and making STEM accessible
 
 ## Connect With Me 🌍
-- [My LinkedIn Profile] (www.linkedin.com/in/abby-cressy-3834b7226)
+- [My LinkedIn Profile](www.linkedin.com/in/abby-cressy-3834b7226)
 - GitHub: [Your GitHub Profile](#)
 - Website/Portfolio: [Your Personal Website](#)
 
