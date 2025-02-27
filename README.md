@@ -7,9 +7,9 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 ## What I'm Working On 👩‍🔬
 - **Research**: Analyzing ribonucleotide patterns in genomic DNA to uncover trends and biological significance.
 - **STEM Outreach**: Organizing STEM activity kits and events for kids at local libraries and elementary schools.
-- **Running Goals**: Training to run a 10k by July 4th, 2025!
 - **Learning Outside of the Classroom**: Currently making my way through the OSSU Bioinformatics courses to help expand my knowledge (specifically in ML and other CS concepts)
  [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+- **Running Goals**: Training to run a 10k by July 4th, 2025!
 
 ## Skills & Interests 🧬💻
 - **Bioinformatics**: R, Python (pandas, matplotlib), mySQL
