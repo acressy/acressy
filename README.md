@@ -1,7 +1,7 @@
 # Hi, I'm Abby Cressy! 👋
 
 ## About Me
-Hey! I'm a Biology major at Georgia Tech, graduating in May 2025. I'm passionate about genomics, bioinformatics, and understanding how computational tools can enhance biomedical research. Currently, I'm investigating patterns of ribonucleotides (rNMPs) in genomic DNA and their potential biological implications.
+Hey! I'm a 4th-year Biology major at Georgia Tech, graduating in May 2025. I'm passionate about genomics, bioinformatics, and understanding how computational tools can enhance biomedical research. Currently, I'm investigating patterns of ribonucleotides (rNMPs) in genomic DNA and their potential biological implications.
 
 ## What I'm Working On 👩‍🔬
 - **Research**: Analyzing ribonucleotide patterns in genomic DNA to uncover trends and biological significance.
