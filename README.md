@@ -24,7 +24,7 @@ Hey! I'm a 4th-year Biology major at Georgia Tech, graduating in May 2025. I'm p
 - Former Mathnasium tutor (2020-2022) and Biology TA at Georgia Tech (Fall 2024).
 - As a prospective MS Bioinformatics student, I have already taken 5/12 of my required graduate courses and got them paid for with my Zell Miller Scholarship!
 
-Looking forward to collaborating and learning new things together! 🚀
+Looking forward to collaborating and learning new things together! 
 
 
 <!---
