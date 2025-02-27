@@ -17,6 +17,8 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 
 ## Connect With Me 🌍
 - [My LinkedIn Profile](www.linkedin.com/in/abby-cressy-3834b7226)
+- [acressy3@gatech.edu](#)
+- [abbycressy1@gmail.com](#)
 
 ## Fun Facts 🎉
 - I studied abroad in Barcelona in Fall 2022 and took Organic Chemistry, Biochemistry, and Human Anatomy abroad!
