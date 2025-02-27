@@ -17,8 +17,6 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 
 ## Connect With Me 🌍
 - [My LinkedIn Profile](www.linkedin.com/in/abby-cressy-3834b7226)
-- GitHub: [Your GitHub Profile](#)
-- Website/Portfolio: [Your Personal Website](#)
 
 ## Fun Facts 🎉
 - I studied abroad in Barcelona in Fall 2022 and took Organic Chemistry, Biochemistry, and Human Anatomy abroad!
