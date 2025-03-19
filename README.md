@@ -18,7 +18,7 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 - **Science Communication**: Teaching, outreach, and making STEM accessible
 
 ## Fun Facts 🎉
-- I studied abroad in Barcelona in the Fall of 2022 and took Organic Chemistry, Biochemistry, and Human Anatomy abroad!
+- I studied abroad in Barcelona in the Fall of 2022 and took Organic Chemistry, Biochemistry, and Human Anatomy.
 - Former Mathnasium tutor (2020-2022) and Biology TA at Georgia Tech (Fall 2024).
 - As a prospective MS Bioinformatics student, I have already taken 5/12 of my required graduate courses and got them paid for with my Zell Miller Scholarship!
 - I love to crochet! So far, my favorite project is the blanket I made in the shape of Captain America's sheild (it's taller than me haha).
