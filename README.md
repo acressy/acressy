@@ -12,18 +12,16 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 - **Running Goals**: Training to run a 10k by July 4th, 2025!
 
 ## Skills & Interests 🧬💻
-- **Bioinformatics**: R, Python (pandas, matplotlib), mySQL
+- **Bioinformatics**: R, Python (pandas, matplotlib), MySQL
 - **Data Analysis**: Genomic sequence analysis, machine learning basics, RNA-seq
 - **Wet Lab Experience**: Cell culture, PCR, qPCR, magnetic bead purification, BSCII safety
 - **Science Communication**: Teaching, outreach, and making STEM accessible
 
 ## Fun Facts 🎉
-- I studied abroad in Barcelona in Fall 2022 and took Organic Chemistry, Biochemistry, and Human Anatomy abroad!
+- I studied abroad in Barcelona in the Fall of 2022 and took Organic Chemistry, Biochemistry, and Human Anatomy abroad!
 - Former Mathnasium tutor (2020-2022) and Biology TA at Georgia Tech (Fall 2024).
 - As a prospective MS Bioinformatics student, I have already taken 5/12 of my required graduate courses and got them paid for with my Zell Miller Scholarship!
-- I love to crochet! So far, my favorite project is the blanket I made in the shape of Captain America's sheild (its taller than me haha).
-
-Looking forward to collaborating and learning new things together! 
+- I love to crochet! So far, my favorite project is the blanket I made in the shape of Captain America's sheild (it's taller than me haha).
 
 ## Connect With Me 🌍
 - [My LinkedIn Profile](www.linkedin.com/in/abby-cressy-3834b7226)
