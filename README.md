@@ -7,7 +7,7 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 ## What I'm Working On 👩‍🔬
 - **Research**: Analyzing ribonucleotide patterns in genomic DNA to uncover trends and biological significance.
 - **STEM Outreach**: Organizing STEM activity kits and events for kids at local libraries and elementary schools.
-- **Learning Outside of the Classroom**: Currently making my way through the OSSU Bioinformatics courses to help expand my knowledge (specifically in ML and other CS concepts)
+- **Learning Outside of the Classroom**: Currently making my way through the OSSU Bioinformatics courses to help expand my knowledge (working on Intro to Machine Learning right now)
  [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 - **Running Goals**: Training to run a 10k by July 4th, 2025!
 
@@ -17,11 +17,6 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 - **Wet Lab Experience**: Cell culture, PCR, qPCR, magnetic bead purification, BSCII safety
 - **Science Communication**: Teaching, outreach, and making STEM accessible
 
-## Connect With Me 🌍
-- [My LinkedIn Profile](www.linkedin.com/in/abby-cressy-3834b7226)
-- [acressy3@gatech.edu](#)
-- [abbycressy1@gmail.com](#)
-
 ## Fun Facts 🎉
 - I studied abroad in Barcelona in Fall 2022 and took Organic Chemistry, Biochemistry, and Human Anatomy abroad!
 - Former Mathnasium tutor (2020-2022) and Biology TA at Georgia Tech (Fall 2024).
@@ -30,7 +25,10 @@ I'm passionate about genomics, bioinformatics, and understanding how computation
 
 Looking forward to collaborating and learning new things together! 
 
-
+## Connect With Me 🌍
+- [My LinkedIn Profile](www.linkedin.com/in/abby-cressy-3834b7226)
+- [acressy3@gatech.edu](#)
+- [abbycressy1@gmail.com](#)
 <!---
 acressy/acressy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
