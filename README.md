@@ -12,8 +12,8 @@ My research interests include clinical bioinformatics and cancer genomics. Howev
 - **Running Goals**: I just ran the Peachtree Road Race (10k) in July 2025! I am currently going on runs just for fun but I am looking for a new race to run soon :)
 
 ## Skills & Interests 🧬💻
-- **Bioinformatics**: R, Python (pandas, matplotlib), MySQL
-- **Data Analysis**: Genomic sequence analysis, machine learning basics, RNA-seq
+- **Programming**: R, Python, MySQL
+- **Data Analysis**: Genomic sequence analysis, RNA-seq, basic statistical methods
 - **Wet Lab Experience**: Cell culture, PCR, qPCR, magnetic bead purification, BSCII safety
 - **Science Communication**: Teaching, outreach, and making STEM accessible
 
