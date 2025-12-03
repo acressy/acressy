@@ -8,8 +8,8 @@ My research interests include clinical bioinformatics and cancer genomics. Howev
 ## What I'm Working On 👩‍🔬
 - **Research**: As part of my senior research lab this past spring, I worked to analyze ribonucleotide incorporation patterns within the genomic DNA of _Sacharomyces cerevisea_ in order to understand more about the impact of rNMP incorporation on DNA as well as any biases that might be present.
 - **STEM Outreach**: I have been co-president of a club called Little Einsteins since Fall 2024. Our mission is to encourage a love for STEM in the Atlanta area, specifically for students K-5. Each semester we create 700+ STEM activity kits for kids at local libraries and help host STEM activities at local Title I elementary schools.
-- **Learning Outside of the Classroom**: Currently working on the Rosalind Project problems to try and build on my programming skillset before starting my master's in bioinformatics this fall.
-- **Running Goals**: I just ran the Peachtree Road Race (10k) in July 2025! I am currently going on runs just for fun but I am looking for a new race to run soon :)
+- **Learning Outside of the Classroom**: Currently working on the Advent of Code problems to help build my programming knowledge.
+- **Running Goals**: I just ran the Peachtree Road Race (10k) in July 2025 and the Marietta Gobble Jog (10k) in November of 2025! I am currently going on runs just for fun but I am looking for a new race to run soon :)
 
 ## Skills & Interests 🧬💻
 - **Programming**: R, Python, MySQL
@@ -20,8 +20,7 @@ My research interests include clinical bioinformatics and cancer genomics. Howev
 ## Fun Facts 🎉
 - I studied abroad in Barcelona in the Fall of 2022 and took Organic Chemistry, Biochemistry, and Human Anatomy.
 - Former Mathnasium tutor (2020-2022) and Biology TA at Georgia Tech (Fall 2024).
-- As a prospective MS Bioinformatics student, I have already taken five of my required graduate courses and got them paid for with my Zell Miller Scholarship!
-- I love to crochet! So far, my favorite project is the blanket I made in the shape of Captain America's shield.
+- I love to crochet, knit, and sew! So far, my favorite project is the blanket I made in the shape of Captain America's shield. I also sewed over 100 masks in 2020 when there was a shortage.
 
 ## Connect With Me 🌍
 - [My LinkedIn Profile](www.linkedin.com/in/abby-cressy-3834b7226)
